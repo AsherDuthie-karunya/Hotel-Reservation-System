@@ -1,0 +1,2 @@
+First access the name and the time of reservation and till when will they stay, and make sure that they are not members who are blacklsted
+Then check if their rooms are available, if not provide them with a new room
